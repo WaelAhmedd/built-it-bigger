@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Build it Bigger</string>
+    <string name="instructions">Press the button for a delicious joke!</string>
+    <string name="button_text">Tell Joke</string>
+    <string name="add_id">ca-app-pub-1683808898642028~6088135434</string>
+    <string name="banner_ad_unit_id">ca-app-pub-1683808898642028/8924028243</string>
+    <string name="interstitial_ad_id">ca-app-pub-1683808898642028/8423612596</string>
+    <string name="device_id" translatable="false">1E7145215208BE449B00742AA5D68BE0</string>
+
+</resources>
+
